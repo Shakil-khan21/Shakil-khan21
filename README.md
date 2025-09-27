@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Shakil
 #### Web Developer
 
-
 I'm a front End Web Developer who is passionate about making error-free website with 100% client satisfaction.
 
 Skills:  REACT / JS / HTML / CSS/PHP
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on studying Computer Science and Engineering (CSE) 
 - 🌱 I’m currently learning REACT 
 
 
