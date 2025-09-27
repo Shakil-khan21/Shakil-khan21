@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shakil
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm a front End Web Developer who is passionate about making error-free website with 100% client satisfaction.
 
